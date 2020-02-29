@@ -7,18 +7,23 @@
 # Live
 (Link)(https://find-your-friend-match.herokuapp.com/)
 
-# Technologies used
+## Technologies used
 * Node.js
 * body-parser NPM Package
 * express NPM Package 
 * path NPM Package 
+
 ## Prerequisites
 - Node.js - Download the latest version of Node https://nodejs.org/en/
 - Materialize - Add CDN link to HTML http://materializecss.com/getting-started.html
-# Built With
+
+## Built With
 
 + VS Code
 
-# Author
+## ScreenShot
+![image](https://github.com/bilalsarimeseli/FriendFinder/blob/master/Screen%20Shot%202020-02-29%20at%201.52.08%20AM.png?raw=true)
+
+## Author
 Bilal Sarimeseli - HTML/JS/Node.js
 [linkedIn-bilalsarimeseli](https://www.linkedin.com/in/bilal-sarimeseli-61928348/)
