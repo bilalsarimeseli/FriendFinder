@@ -21,3 +21,4 @@
 
 # Author
 Bilal Sarimeseli - HTML/JS/Node.js
+[linkedIn-bilalsarimeseli](https://www.linkedin.com/in/bilal-sarimeseli-61928348/)
